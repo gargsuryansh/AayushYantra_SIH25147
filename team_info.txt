@@ -1,0 +1,11 @@
+Team Name: AayushYantra
+Institute: Prestige institute of engineering management and research
+Team Members
+1.Ashutosh Garg (Presenter , software& Iot dveloper , Circuit Designer)
+2.Sanjana Maida ( Team Leader)
+3. Aman Agrawal (Designer , pneumatics Expert)
+4.Satwik Misra (Software , Ai Implimenter , Social Media Correspondent)
+5.Saanvi Gupta (Iot & sensors expert )
+6.YashVardhan Potphode (System Assembler , Procurement)
+
+Github Link :->  https://github.com/gargsuryansh/AayushYantra_SIH25147.git

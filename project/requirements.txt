@@ -1,0 +1,70 @@
+Software Part --
+ Node installed
+ npm as package manager
+
+  "dependencies": 
+        "@fontsource/space-grotesk": "^5.2.10",
+        "@supabase/supabase-js": "^2.31.0",
+        "@types/sqlite3": "^3.1.11",
+        "next": "14.0.0",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "recharts": "^3.5.1",
+        "sqlite3": "^5.1.7"
+
+
+
+Hardware part-->>
+
+ (For Portable Contouring Device for Prosthetic Sockets)
+
+ 1. Heating System
+
+ Nichrome Heating Coil
+ Copper Heating Tube
+ Ceramic Insulation Sheet
+ Heating Chamber Casing (Metal/High-temp plastic)
+ Iron Ring / Air Distribution Ring
+
+ 2. Temperature Control
+
+ DS18B20 Digital Temperature Sensor
+ Microcontroller (ESP32 / NodeMCU)
+ Relay Module (1-channel/2-channel for heating control)
+ Heat-resistant Wires
+
+ 3. Air Compression System
+
+ Air Compressor (Portable)
+ Air Pressure Regulator
+ Air Filter (Moisture + Dust + Oil)
+ High-pressure Silicone Pipe
+ Air Nozzle for Socket Entry
+
+ 4. Power Supply
+
+ SMPS / Adapter (220V AC to 24V / 12V DC)
+ Step-down Transformer (if used)
+ Bridge Rectifier
+ Voltage Regulator ICs
+
+ 5. Control & Display Components
+
+ OLED / LCD Display
+ Push Buttons / Rotary Knob
+ ON/OFF Switch
+ Status Indicator LEDs
+
+ 6. Safety & Enclosure
+
+ High-temperature Resistant Outer Body
+ Insulation Pads
+ Fuse for Overcurrent Protection
+ Cooling Vents / Fan (optional)
+
+ 7. Additional Mechanical Components
+
+ Mounting Brackets
+ 3D-printed Housing Parts
+ Nuts, Bolts, Screws
+ EVA Foam Sheets (Thermoformable)
